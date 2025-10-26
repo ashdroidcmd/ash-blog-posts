@@ -4,7 +4,7 @@ Welcome to my personal technical blog! Here you'll find posts about Software Dev
 
 ## Table of Contents
 
-- [Embedded Systems vs IoT vs Robotics](posts/2025-10-20-react-crud-tutorial.md)
+- [Embedded Systems vs IoT vs Robotics](posts/2025-10-26-embedded-vs-iot-vs-robotics.md)
 
 ---
 
