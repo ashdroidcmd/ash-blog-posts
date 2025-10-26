@@ -1,6 +1,6 @@
 # My GitHub Blog
 
-Welcome to my personal technical blog! Here you'll find posts about software development, cybersecurity, IoT, and other tech topics.
+Welcome to my personal technical blog! Here you'll find posts about Software Development, Embedded Systems, IoT and other tech topics.
 
 ## Table of Contents
 
@@ -11,5 +11,5 @@ Welcome to my personal technical blog! Here you'll find posts about software dev
 
 ## About Me
 
-Hi! I'm Ash, a software engineer exploring web development, IoT, and cybersecurity. I use this blog to document projects, tutorials, and learning journeys.
+Hi! I'm Ash, a Software Engineer exploring WWeb Development, IoT and Embedded Systems. I use this blog to document projects, tutorials, and learning journeys.
 
