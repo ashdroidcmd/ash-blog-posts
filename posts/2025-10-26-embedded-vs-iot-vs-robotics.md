@@ -1,6 +1,7 @@
 # Embedded Systems vs IoT vs Robotics
 
 *Author - Ashlee Zoe C. Gesite*
+
 *Date - October 26, 2025*
 
 Understanding the differences between **Embedded Systems**, **IoT (Internet of Things)**, and **Robotics** is essential for anyone exploring modern hardware-software integration. These fields overlap, but each has a distinct focus and use cases.
