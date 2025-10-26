@@ -67,7 +67,7 @@ Robots often use embedded systems for control and may use IoT for remote operati
 
 ## 5. How They Work Together
 
-A cool is example is a **DIY sentry gun using an ESP32**.
+A cool example is a **DIY sentry gun using an ESP32**.
 
 - The **Embedded System** part (the ESP32) handles the logic, reading motion sensors and controlling servos.
 - The **IoT** layer lets it send alerts and receive commands through Wi-Fi.
