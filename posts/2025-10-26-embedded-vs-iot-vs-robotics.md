@@ -3,11 +3,28 @@
 *Author - Ashlee Zoe C. Gesite*  
 *Date - October 26, 2025*
 
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735195/embedded-vs-iot-vs-robotics_coxabm.png" 
+    alt="Embedded vs IoT vs Robotics"
+    width="70%"
+  />
+</p>
+
 When you dive into tech that mixes hardware and software, you’ll often hear three terms, **Embedded Systems**, **IoT**, and **Robotics**. They sound similar, and they do overlap, but each plays a different role in how modern machines work. Here’s how I like to think about them.
+
 
 ---
 
 ## 1. Embedded Systems
+
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735195/embedded-systems_wax0og.png" 
+    alt="Embedded vs IoT vs Robotics"
+    width="70%"
+  />
+</p>
 
 Whenever you see a device doing something specific, like a washing machine timing its spin cycle or a car adjusting fuel injection automatically, that’s an **embedded system** at work.  
 It’s basically a small computer built to do one job really well. It’s not meant for general use like a laptop; it’s programmed to control, monitor, or automate one thing inside a bigger machine.
@@ -25,6 +42,14 @@ You’ll find embedded systems in everything, appliances, vehicles, factories, e
 
 ## 2. Internet of Things (IoT)
 
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735196/iot_be45qt.png" 
+    alt="Embedded vs IoT vs Robotics"
+    width="70%"
+  />
+</p>
+
 Now imagine connecting those embedded systems to the internet, that’s where **IoT** comes in.  
 Instead of a device working alone, it can now **send data**, **receive commands**, or **be controlled remotely**. Think of it as giving your hardware a voice on the web.
 
@@ -38,6 +63,14 @@ IoT uses wireless tech like **Wi-Fi**, **Bluetooth**, or **LoRa**, and often con
 ---
 
 ## 3. Robotics
+
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735195/robotics_tug0as.png" 
+    alt="Embedded vs IoT vs Robotics"
+    width="70%"
+  />
+</p>
 
 Now take it a step further, instead of just sensing or sending data, what if the system **moves** or **acts** on its own? That’s **Robotics**.
 
@@ -66,6 +99,14 @@ Robots often use embedded systems for control and may use IoT for remote operati
 ---
 
 ## 5. How They Work Together
+
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735571/sentry_msorjo.png" 
+    alt="Embedded vs IoT vs Robotics"
+    width="70%"
+  />
+</p>
 
 A cool example is a **DIY sentry gun using an ESP32**.
 
