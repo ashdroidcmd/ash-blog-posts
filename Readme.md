@@ -3,6 +3,14 @@
 Welcome to my personal technical blog!  
 Here you'll find posts about **Software Development**, **Embedded Systems**, **IoT**, and other tech topics that I explore as I grow as an engineer.
 
+<p align="center">
+  <img 
+    src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735695/readme_tevbed.png" 
+    alt="Readme Banner"
+    width="70%"
+  />
+</p>
+
 ---
 
 ## 📝 Latest Posts
