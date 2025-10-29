@@ -21,7 +21,7 @@ When you dive into tech that mixes hardware and software, you’ll often hear th
 <p align="center">
   <img 
     src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735195/embedded-systems_wax0og.png" 
-    alt="Embedded vs IoT vs Robotics"
+    alt="Embedded Systems"
     width="70%"
   />
 </p>
@@ -45,7 +45,7 @@ You’ll find embedded systems in everything, appliances, vehicles, factories, e
 <p align="center">
   <img 
     src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735196/iot_be45qt.png" 
-    alt="Embedded vs IoT vs Robotics"
+    alt="IoT"
     width="70%"
   />
 </p>
@@ -67,7 +67,7 @@ IoT uses wireless tech like **Wi-Fi**, **Bluetooth**, or **LoRa**, and often con
 <p align="center">
   <img 
     src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735195/robotics_tug0as.png" 
-    alt="Embedded vs IoT vs Robotics"
+    alt="Robotics"
     width="70%"
   />
 </p>
@@ -103,7 +103,7 @@ Robots often use embedded systems for control and may use IoT for remote operati
 <p align="center">
   <img 
     src="https://res.cloudinary.com/dmkri61cj/image/upload/v1761735571/sentry_msorjo.png" 
-    alt="Embedded vs IoT vs Robotics"
+    alt="Sentry Gun"
     width="70%"
   />
 </p>
