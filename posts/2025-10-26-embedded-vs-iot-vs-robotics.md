@@ -5,7 +5,7 @@
 
 When you dive into tech that mixes hardware and software, you’ll often hear three terms, **Embedded Systems**, **IoT**, and **Robotics**. They sound similar, and they do overlap, but each plays a different role in how modern machines work. Here’s how I like to think about them.
 
-## 1. Embedded Systems 🟢
+## Embedded Systems 🟢
 
 Whenever you see a device doing something specific, like a washing machine timing its spin cycle 🧺 or a car adjusting fuel injection automatically 🚗, that’s an **embedded system** at work. It’s basically a small computer built to do one job really well.
 
@@ -19,7 +19,7 @@ Some examples:
 
 Embedded systems are the foundation for most smart devices before the internet comes into play.
 
-## 2. Internet of Things (IoT) 🌐
+## Internet of Things (IoT) 🌐
 
 Now imagine connecting those embedded systems to the internet, that’s where **IoT** comes in. Instead of a device working alone, it can now **send data**, **receive commands**, or **be controlled remotely**.
 
@@ -31,7 +31,7 @@ For example:
 
 IoT uses wireless tech like **Wi-Fi 🌐**, **Bluetooth 📶**, or **LoRa 📡**, and often connects to a cloud dashboard or mobile app.
 
-## 3. Robotics 🤖
+## Robotics 🤖
 
 Now take it a step further, instead of just sensing or sending data, what if the system **moves** or **acts** on its own? That’s **Robotics**.
 
@@ -45,7 +45,7 @@ Some examples:
 
 Robots often use embedded systems for control and may use IoT for remote operation or monitoring. They can also integrate **AI 🤯** or **computer vision 👁️** to make decisions on their own.
 
-## 4. Quick Comparison 📊
+## Quick Comparison 📊
 
 | Aspect           | Embedded Systems 🟢           | IoT 🌐                 | Robotics 🤖             |
 | ---------------- | ----------------------------- | ---------------------- | ----------------------- |
@@ -55,7 +55,7 @@ Robots often use embedded systems for control and may use IoT for remote operati
 | **Examples**     | Washing machine controller 🧺 | Smart thermostat 🌡️   | Drone 🛸 / Robot arm 🤖 |
 | **Typical Code** | C/C++ 💻                      | C, Python 🐍, Node.js  | C++, Python 🐍, ROS     |
 
-## 5. How They Work Together 🔗
+## How They Work Together 🔗
 
 A cool example is a **DIY sentry gun using an ESP32 🔫🌐🤖**:
 
@@ -65,7 +65,7 @@ A cool example is a **DIY sentry gun using an ESP32 🔫🌐🤖**:
 
 All three layers blend together: embedded code for control, IoT for connectivity, and robotics for motion.
 
-## 6. Final Thoughts 💡
+## Final Thoughts 💡
 
 Think of these three as layers:
 
