@@ -1,4 +1,4 @@
-# 🧠 My Tech Blog
+# 🧠 Ash's Tech Blog
 
 Welcome to my personal technical blog!  
 Here you'll find posts about **Software Development**, **Embedded Systems**, **IoT**, and other tech topics that I explore as I grow as an engineer.
@@ -15,8 +15,8 @@ Here you'll find posts about **Software Development**, **Embedded Systems**, **I
 
 ## 📝 Latest Posts
 
-- [November 9, 2025 — Microcontrollers vs Microprocessors](posts/2025-11-09-microcontollers-vs-microprocessors.md)
-- [October 26, 2025 — Embedded Systems vs IoT vs Robotics](posts/2025-10-26-embedded-vs-iot-vs-robotics.md)
+* [November 9, 2025 — Microcontrollers vs Microprocessors 🤖💻](posts/2025-11-09-microcontollers-vs-microprocessors.md)
+* [October 26, 2025 — Embedded Systems vs IoT vs Robotics 🤖🌐⚙️](posts/2025-10-26-embedded-vs-iot-vs-robotics.md)
 
 *(More posts coming soon...)*
 
