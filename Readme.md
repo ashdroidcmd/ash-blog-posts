@@ -15,7 +15,7 @@ Here you'll find posts about **Software Development**, **Embedded Systems**, **I
 
 ## 📝 Latest Posts
 
-- [November 9, 2025 — Embedded Systems vs IoT vs Robotics](posts/2025-11-09-microcontollers-vs-microprocessors.md)
+- [November 9, 2025 — Microcontrollers vs Microprocessors](posts/2025-11-09-microcontollers-vs-microprocessors.md)
 - [October 26, 2025 — Embedded Systems vs IoT vs Robotics](posts/2025-10-26-embedded-vs-iot-vs-robotics.md)
 
 *(More posts coming soon...)*
